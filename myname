@@ -16,3 +16,7 @@ float
 position:relative/absolute
 width
 height
+create a table
+create table student
+(id int(4) primary key,
+name varchar(20));
