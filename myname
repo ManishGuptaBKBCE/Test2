@@ -20,3 +20,7 @@ create a table
 create table student
 (id int(4) primary key,
 name varchar(20));
+add records
+insert into student
+values
+(1,"Parth")
